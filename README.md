@@ -2,26 +2,30 @@
 
 
 
-### Olá eu sou o Ericles Ribeiro 🤙
-Atualmente sou desenvolvedor mais voltado pra front-end
-Estudo basicamente um pouco typescript e construções de api's
+### I'm Ericles Ribeiro 🤙
+I'm a front-end focused developer, currently exploring TypeScript, React, and API development.
+I love building clean, user-friendly interfaces and learning new ways to make the web more efficient.
 
-Bem, é isso... Não muito o que falar 😊
+Well, that’s pretty much it for now 😄
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericles-ribeiro/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ericles.ribeiro/)
 
 
-![Ericles GitHub stats](https://github-readme-stats.vercel.app/api?username=EriclesRibeiro&show_icons=true&card_width=300&theme=tokyonight)
+<div align="center">
+  
+### 🧠 Technologies I work with  
+<img src="https://skillicons.dev/icons?i=java,react,typescript,javascript,html,css,nodejs,git" />
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EriclesRibeiro&layout=compact&theme=tokyonight)
 
 
-<div dir="auto"><br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EriclesRibeiro&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EriclesRibeiro&theme=tokyo-night)
 </div>
 
-
-### Obrigado pela visita!
